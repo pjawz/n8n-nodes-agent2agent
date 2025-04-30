@@ -118,9 +118,3 @@ After cloning the repository, run `pnpm i` to install local dependencies. Use `p
   - Includes `Discover Agent`, `Send Task`, `Get Task`, and `Cancel Task` operations.
   - Supports basic credential types (e.g., API Key/Bearer Token via Header - _actual types depend on implementation_).
   - `Send Task` includes `Wait for Completion` option (using polling). Basic parsing of text, data, and file artifacts.
-
-_(Add new versions here as the node evolves)_
-
----
-
-License: MIT _(Ensure LICENSE.md file is present and updated)_
